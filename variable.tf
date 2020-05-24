@@ -24,7 +24,3 @@ variable "ami" {
 
 }
 
-variable "key_path" {
-  description = "SSH Public Key path"
-  default = "public_key"
-}
